@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'obras de arte',
+    'obra de arte',
     'Em que ano Vincent Van Gogh pintou a obra noite estrelada?',
     '1889',
 )
